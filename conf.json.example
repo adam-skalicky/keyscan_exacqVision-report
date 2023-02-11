@@ -1,0 +1,13 @@
+{
+    "username": "user",
+    "password": "passowrd",
+    "system_name": "192.168.1.1:22609",
+    "lookback": 60,
+    "lookforward": 60,
+    "root_path": "C:\\Camera_Report\\Output",
+    "devices": {
+        "Elavator 1": ["Elv 1"],
+        "Elavator 2": ["Elv 2"],
+        "Lobby": ["Lobby","Mailroom"]
+    }
+}
